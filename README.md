@@ -2,14 +2,14 @@
 
 A small CNN that estimates a person's age from a 48×48 face image, with a Streamlit app that takes a webcam photo and shows the predicted age.
 
-**🔗 Deployed Model:** <LINK>
+**🔗 Deployed Model:** <https://agepredictioncnn.streamlit.app>
 
 ## Project structure
 
 ```
 ├── Age_Predictor.ipynb        # data loading, training, evaluation
-├── app.py                   # Streamlit app
-├── utkface_age_model.keras    # trained model
+├── app.py                     # Streamlit app
+├── utkface_age_model.keras    # Trained model
 └── requirements.txt
 ```
 
